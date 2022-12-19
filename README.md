@@ -1,5 +1,5 @@
--> @OceanKale \n
--> Ahoy! My name is Kale
+- @OceanKale
+- Ahoy! My name is Kale
 
 <!---
 OceanKale/OceanKale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
